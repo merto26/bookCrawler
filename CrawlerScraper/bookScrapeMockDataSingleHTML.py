@@ -72,7 +72,7 @@ def scrapeMockData(input, output):
 
 if __name__ == '__main__':
     startTime = time.time()
-    #Zeit messen
+
     zeitMessungen = []
     cumulative_time = 0
     i = 1
